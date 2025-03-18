@@ -6,5 +6,6 @@ Processori: componenti/processori.md
 SchedeMadri: componenti/schedemadri.md
 
 Periferiche
+Tastiere: periferiche/tastiere.md
 
 Elettronica Padovana
